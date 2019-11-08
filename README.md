@@ -1,6 +1,9 @@
 # GraphQL_Tutorial
 Test project voor GraphQL
 
+# Link Github project
+- https://github.com/LeanderVanderbiesen/GraphQL_Tutorial
+
 # Requirements
   - PHP 7.3
   - Laravel 6
